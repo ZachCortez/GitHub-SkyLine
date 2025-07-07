@@ -4,72 +4,51 @@
   <meta charset="UTF-8" />
   <meta http-equiv="refresh" content="3; URL='viewer.html'" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Redirecting to 3D Viewer...</title>
+  <title>Redirecting to 3D GitHub Skyline</title>
   <style>
-    * {
-      margin: 0;
-      padding: 0;
-      box-sizing: border-box;
-    }
-
     body {
-      height: 100vh;
-      display: flex;
-      justify-content: center;
-      align-items: center;
+      margin: 0;
       background: linear-gradient(135deg, #0f0f1b, #1b1c2b);
       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
       color: #00ffe7;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      flex-direction: column;
       overflow: hidden;
     }
 
-    .container {
-      text-align: center;
-      animation: fadeIn 2s ease-in-out;
-    }
-
     h1 {
-      font-size: 2.5rem;
-      text-shadow: 0 0 15px #00ffe7, 0 0 30px #00ffe7;
+      font-size: 2.2rem;
+      text-shadow: 0 0 15px #00ffe7;
+      margin-bottom: 10px;
     }
 
     p {
       font-size: 1.1rem;
-      margin-top: 1rem;
-      color: #aaa;
+      opacity: 0.8;
     }
 
-    a {
-      color: #00ffe7;
-      text-decoration: underline;
-    }
-
-    .loader {
-      margin: 2rem auto 0;
-      width: 60px;
-      height: 60px;
+    .glow {
+      width: 30px;
+      height: 30px;
       border-radius: 50%;
-      border: 6px solid #00ffe7;
-      border-top: 6px solid transparent;
-      animation: spin 1s linear infinite;
+      background: #00ffe7;
+      box-shadow: 0 0 20px #00ffe7;
+      margin-top: 30px;
+      animation: pulse 1s infinite alternate;
     }
 
-    @keyframes spin {
-      to { transform: rotate(360deg); }
-    }
-
-    @keyframes fadeIn {
-      from { opacity: 0; transform: scale(0.98); }
-      to { opacity: 1; transform: scale(1); }
+    @keyframes pulse {
+      from { transform: scale(1); opacity: 1; }
+      to { transform: scale(1.3); opacity: 0.6; }
     }
   </style>
 </head>
 <body>
-  <div class="container">
-    <h1>Launching the Skyline Viewer...</h1>
-    <div class="loader"></div>
-    <p>If you aren't redirected automatically,<br />
-    <a href="viewer.html">click here to enter manually</a>.</p>
-  </div>
+  <h1>Redirecting to 3D Skyline Viewer...</h1>
+  <p>Loading your personalized GitHub skyline ⚡</p>
+  <div class="glow"></div>
 </body>
 </html>
