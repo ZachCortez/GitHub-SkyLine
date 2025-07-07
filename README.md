@@ -105,7 +105,7 @@ gh skyline --art-only
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Robot.webp" alt="Robot" width="50" height="50" align="center"/> Project Structure
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Newspaper.webp" alt="Newspaper" width="50" height="50" align="center"/> Project Structure
 
 ```
 /
