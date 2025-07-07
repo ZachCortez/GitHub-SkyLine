@@ -1,6 +1,6 @@
 
 ---
-# 🏙️ GitHub‑SkyLine – 3D Commit History Viewer (2020–2025)
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cityscape%20at%20Dusk.png" alt="Cityscape at Dusk" width="50" height="50" align="center" />   **GitHub‑SkyLine – 3D Commit History Viewer (2020–2025)**
 
 This project showcases my personalized GitHub Skyline — a 3D visualization of my GitHub commit history from **2020 to 2025**, turned into a physical skyline you can view, interact with, or even 3D print!
 
@@ -8,32 +8,32 @@ This project showcases my personalized GitHub Skyline — a 3D visualization of 
 
 ---
 
-## 🎥 Interactive 3D Viewer
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Classical%20Building.webp" alt="Classical Building" width="45" height="45" align="center"/> Interactive 3D Viewer
 
 Click below to explore the skyline in your browser:
 
 [![3D GitHub Skyline Preview](https://raw.githubusercontent.com/ZachCortez/GitHub-SkyLine/main/skyline-preview.png)](https://zachcortez.github.io/GitHub-SkyLine/viewer.html)
 
-> ☝️ _Click the image to launch the 3D model viewer._
+> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Index%20Pointing%20Up.webp" alt="Index Pointing Up" width="35" height="35" /> _Click the image to launch the 3D model viewer._
 
 ---
 
-## 📁 Downloadable Files
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Card%20Index%20Dividers.webp" alt="Card Index Dividers" width="45" height="45" align="center"/> Downloadable Files
 
-- 🧱 [`ZachCortez-2020-25-github-skyline.stl`](https://raw.githubusercontent.com/ZachCortez/GitHub-SkyLine/main/ZachCortez-2020-25-github-skyline.stl) – 3D model file
-- 🎮 [`viewer.html`](https://zachcortez.github.io/GitHub-SkyLine/viewer.html) – Web viewer using [`<model-viewer>`](https://modelviewer.dev)
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Crystal%20Ball.png" alt="Crystal Ball" width="35" height="35" align="center"/> [`ZachCortez-2020-25-github-skyline.stl`](https://raw.githubusercontent.com/ZachCortez/GitHub-SkyLine/main/ZachCortez-2020-25-github-skyline.stl) – 3D model file
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Video%20Game.webp" alt="Video Game" width="35" height="35" align="center"/> [`viewer.html`](https://zachcortez.github.io/GitHub-SkyLine/viewer.html) – Web viewer using [`<model-viewer>`](https://modelviewer.dev)
 
 ---
 
-## 🖨️ 3D Printing
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Printer.webp" alt="Printer" width="45" height="45" align="center"/> 3D Printing
 
 You can download the STL and send it to your favorite 3D printer:
 
-📦 [Download STL](https://raw.githubusercontent.com/ZachCortez/GitHub-SkyLine/main/ZachCortez-2020-25-github-skyline.stl)
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Flying%20Saucer.png" alt="Flying Saucer" width="35" height="35" align="center"/> [Download STL](https://raw.githubusercontent.com/ZachCortez/GitHub-SkyLine/main/ZachCortez-2020-25-github-skyline.stl)
 
 ---
 
-## 🚀 Features
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/High%20Voltage.webp" alt="High Voltage" width="45" height="45" align="center"/> Features
 
 - 🗓️ **3D STL Export (2020–2025):** Visualize multi‑year GitHub history in 3D
 - 🎞️ **ASCII & CLI Preview:** Terminal preview before generating STL
@@ -126,14 +126,6 @@ To embed your STL model with preview:
 ```html
 <script src="https://embed.github.com/view/3d/ZachCortez/GitHub-SkyLine/main/ZachCortez-2020-25-github-skyline.stl"></script>
 ```
-
----
-
-## 🔮 What's Next
-
-* 🌀 Animated skyline GIF exports (year-to-year evolution)
-* 🌐 Fully interactive web viewer with controls
-* 🧭 Branch-level skyline mapping
 
 ---
 
