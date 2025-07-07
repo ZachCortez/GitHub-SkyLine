@@ -137,12 +137,6 @@ To embed your STL model with preview:
 
 ---
 
-## 🧪 Contributing
-
-Pull requests and suggestions are welcome!
-Please open an issue if you'd like to collaborate.
-
----
 
 ## 📄 License
 
