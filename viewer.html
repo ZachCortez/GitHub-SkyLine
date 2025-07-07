@@ -1,36 +1,85 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8" />
-    <title>3D GitHub Skyline</title>
-    <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
-    <style>
-        body {
-            margin: 0;
-            background: #f9f9f9;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-        }
-        model-viewer {
-            width: 80vw;
-            height: 80vh;
-            border: 1px solid #ccc;
-            border-radius: 8px;
-            background: white;
-        }
-    </style>
+  <meta charset="UTF-8" />
+  <title>3D GitHub Skyline</title>
+  <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      height: 100vh;
+      background: linear-gradient(135deg, #0f0f1b, #1b1c2b);
+      color: #00ffe7;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      overflow: hidden;
+    }
+
+    header {
+      margin-bottom: 20px;
+      text-align: center;
+    }
+
+    header h1 {
+      font-size: 2rem;
+      color: #00ffe7;
+      text-shadow: 0 0 15px #00ffe7, 0 0 30px #00ffe7;
+    }
+
+    model-viewer {
+      width: 85vw;
+      height: 85vh;
+      border-radius: 16px;
+      border: 1px solid #00ffe7;
+      background: #10121b;
+      box-shadow: 0 0 30px rgba(0, 255, 231, 0.2);
+      animation: glow 2s ease-in-out infinite alternate;
+    }
+
+    @keyframes glow {
+      from {
+        box-shadow: 0 0 20px rgba(0, 255, 231, 0.1);
+      }
+      to {
+        box-shadow: 0 0 40px rgba(0, 255, 231, 0.4);
+      }
+    }
+
+    @media (max-width: 768px) {
+      model-viewer {
+        width: 95vw;
+        height: 75vh;
+      }
+
+      header h1 {
+        font-size: 1.3rem;
+      }
+    }
+  </style>
 </head>
 <body>
-<model-viewer
-        src="https://raw.githubusercontent.com/ZachCortez/GitHub-SkyLine/main/ZachCortez-2020-25-github-skyline.glb"
-        alt="3D GitHub Skyline"
-        auto-rotate
-        camera-controls
-        background-color="#ffffff">
-</model-viewer>
+  <header>
+    <h1>🚀 Zach Cortez – GitHub Skyline 3D (2020–2025)</h1>
+  </header>
 
-
+  <model-viewer
+    src="https://raw.githubusercontent.com/ZachCortez/GitHub-SkyLine/main/ZachCortez-2020-25-github-skyline.glb"
+    alt="3D GitHub Skyline"
+    auto-rotate
+    camera-controls
+    background-color="#10121b"
+    shadow-intensity="1"
+    exposure="0.8"
+    disable-zoom
+  >
+  </model-viewer>
 </body>
 </html>
