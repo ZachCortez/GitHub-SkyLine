@@ -35,14 +35,14 @@ You can download the STL and send it to your favorite 3D printer:
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/High%20Voltage.webp" alt="High Voltage" width="45" height="45" align="center"/> Features
 
-- 🗓️ **3D STL Export (2020–2025):** Visualize multi‑year GitHub history in 3D
-- 🎞️ **ASCII & CLI Preview:** Terminal preview before generating STL
-- 🔀 **Branch/Model Customization:** Choose branch or commit-specific views
-- 🔐 **No API Token Needed:** Uses authenticated `gh` CLI user automatically
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Tear%20Off%20Calendar.webp" alt="Tear Off Calendar" width="35" height="35" align="center"/>**3D STL Export (2020–2025):** Visualize multi‑year GitHub history in 3D
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="35" height="35" align="center"/> **ASCII & CLI Preview:** Terminal preview before generating STL
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Cactus.webp" alt="Cactus" width="35" height="35" align="center"/> **Branch/Model Customization:** Choose branch or commit-specific views
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Locked%20With%20Key.webp" alt="Locked With Key" width="35" height="35" align="center"/> **No API Token Needed:** Uses authenticated `gh` CLI user automatically
 
 ---
 
-## 🛠️ Tech Stack
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" alt="Toolbox" width="45" height="45"/> Tech Stack
 
 - **Go (Golang)** – Core CLI logic
 - **GitHub CLI (`gh`)** – Authentication & repo metadata
@@ -50,7 +50,7 @@ You can download the STL and send it to your favorite 3D printer:
 
 ---
 
-## 📦 Installation
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Syringe.webp" alt="Syringe" width="45" height="45" align="center"/> Installation
 
 > **Step 1:** Authenticate GitHub CLI  
 ```bash
@@ -65,7 +65,7 @@ gh extension install github/gh-skyline
 
 ---
 
-## ⚙️ Usage
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Memo.webp" alt="Memo" width="45" height="45" /> Usage
 
 | Command                       | Description                           |
 | ----------------------------- | ------------------------------------- |
@@ -81,7 +81,7 @@ gh extension install github/gh-skyline
 
 ---
 
-## ✨ Example
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/New%20Button.webp" alt="New Button" width="35" height="35" /> Example
 
 ```bash
 gh skyline --year 2020-2025 -o zach-skyline-2020-2025.stl
@@ -97,15 +97,15 @@ gh skyline --art-only
 
 ---
 
-## 🔄 How It Works
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Test%20Tube.webp" alt="Test Tube" width="45" height="45" align="center"/> How It Works
 
-1. 📥 Pulls GitHub commit data using your authenticated account
-2. 📊 Converts contributions into ASCII skyline
-3. 🧱 Renders 3D STL model for download or printing
+1. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Inbox%20Tray.webp" alt="Inbox Tray" width="35" height="35" align="center"/> Pulls GitHub commit data using your authenticated account
+2. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="35" height="35" align="center"/> Converts contributions into ASCII skyline
+3. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Classical%20Building.webp" alt="Classical Building" width="35" height="35" align="center"/> Renders 3D STL model for download or printing
 
 ---
 
-## 🧠 Project Structure
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Robot.webp" alt="Robot" width="35" height="35" align="center"/> Project Structure
 
 ```
 /
@@ -119,7 +119,7 @@ gh skyline --art-only
 
 ---
 
-## ✅ Embed on Your GitHub Profile
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Keyboard.webp" alt="Keyboard" width="45" height="45" align="center"/> Embed on Your GitHub Profile
 
 To embed your STL model with preview:
 
@@ -130,18 +130,18 @@ To embed your STL model with preview:
 ---
 
 
-## 📄 License
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Free%20Button.webp" alt="Free Button" width="35" height="35" align="center"/> License
 
 MIT License — see `LICENSE` for more info.
 Skyline generated via: [skyline.github.com](https://skyline.github.com)
 
 ---
 
-## 👤 About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Man%20Technologist.webp" alt="Man Technologist" width="45" height="45" align="center"/> About Me
 
 **Zach Cortez**
-🔗 GitHub: [@ZachCortez](https://github.com/ZachCortez)
-💼 Portfolio: [zachcortez3dportfolio.vercel.app](https://zachcortez3dportfolio.vercel.app)
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="35" height="35" align="center"/> GitHub: [@ZachCortez](https://github.com/ZachCortez)
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Identification%20Card.webp" alt="Identification Card" width="35" height="35" align="center"/> Portfolio: [zachcortez3dportfolio.vercel.app](https://zachcortez3dportfolio.vercel.app)
 
 
 ---
